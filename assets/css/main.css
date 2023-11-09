@@ -62,7 +62,7 @@ html, body{
 li{
     word-spacing: 300%;
     position: relative;
-    right: 20%;
+    right: 12%;
 }
 #name{
     font-size: 150%;
@@ -93,7 +93,11 @@ header {
 .nav_links li {
     display: inline-block;
     padding: 0px 20px;
+    
 
+}
+.nav_links a {
+    margin: 10px; 
 }
 .nav_links li, a{
     transition:  all 0.3s ease 0s;
@@ -131,12 +135,7 @@ button:hover {
     color:black
     
 }
-#cow{
-    font-size: 30%;
-    position: relative;
-    right: 45%;
-    top: 5px;
-}
+
 
 img {
     max-width: 100%;
@@ -154,7 +153,7 @@ img {
 }
 #Hello h4 {
     color: rgb(215, 209, 209);
-    text-decoration: underline;
+
 }
 .About_Me{
     position: absolute;
@@ -303,7 +302,6 @@ img {
     list-style: none;
     text-align: center;
     right: 15%;
-    padding-right: 5%;
 
 
 }
@@ -372,7 +370,6 @@ img {
     list-style: none;
     text-align: center;
     right: 15%;
-    padding-right: 5%;
 
 
 
@@ -444,7 +441,7 @@ img {
     list-style: none;
     text-align: center;
     right: 15%;
-    padding-right: 5%;
+   
 
 
 }
@@ -514,7 +511,6 @@ img {
     list-style: none;
     text-align: center;
     right: 15%;
-    padding-right: 5%;
    
 
 
@@ -585,7 +581,6 @@ img {
     list-style: none;
     text-align: center;
     right: 15%;
-    padding-right: 5%;
 }
 .Proj_5 h3 {
     font-size: 100%;
@@ -653,7 +648,6 @@ img {
     list-style: none;
     text-align: center;
     right: 15%;
-    padding-right: 5%;
 }
 .Proj_6 h3 {
     font-size: 100%;
